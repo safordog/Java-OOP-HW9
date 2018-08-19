@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Написать метод, который создаст список, положит в него 10
+ * элементов, затем удалит первые два и последний, а затем выведет
+ * результат на экран.
  */
 package homework9;
 
